@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_files/providers/cart_provider.dart';
-import 'package:riverpod_files/screens/cart/cart_screen.dart';
+import 'package:test1_1/providers/cart_provider.dart';
+import 'package:test1_1/screens/cart/cart_screen.dart';
 
 class CartIcon extends ConsumerWidget {
   const CartIcon({super.key});
