@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_files/providers/cart_provider.dart';
-import 'package:riverpod_files/providers/products_provider.dart';
-import 'package:riverpod_files/shared/cart_icon.dart';
-
+import 'package:test1_1/providers/cart_provider.dart';
+import 'package:test1_1/providers/products_provider.dart';
+import 'package:test1_1/shared/cart_icon.dart';
+ 
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
 

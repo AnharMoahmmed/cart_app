@@ -1,7 +1,8 @@
 //you have to dowenlaod https://youtu.be/JyJ19DwXCkI?si=L-OafFIvn0ZACG2d
 
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:riverpod_files/models/product.dart';
+ 
+import 'package:test1_1/models/product.dart';
 
 part 'cart_provider.g.dart';
 
